@@ -1,4 +1,4 @@
-package com.omeraytekin.design_patterns.factory;
+package com.omeraytekin.design_patterns.creational.factory;
 
 import java.util.HashMap;
 import java.util.Map;

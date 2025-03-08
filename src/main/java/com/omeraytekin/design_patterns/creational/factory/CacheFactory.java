@@ -1,4 +1,4 @@
-package com.omeraytekin.design_patterns.factory;
+package com.omeraytekin.design_patterns.creational.factory;
 
 public abstract class CacheFactory<K, V> {
     protected Cache<K, V> instance;
