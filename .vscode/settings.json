@@ -1,12 +1,12 @@
 {
     "java.project.sourcePaths": [
-        "src\\main\\java",
-        "src\\test\\java",
-        "src\\sample\\java"
+        "src/main/java",
+        "src/test/java",
+        "src/sample/java"
     ],
-    "java.project.outputPath": "target\\src",
+    "java.project.outputPath": "target/src",
     "java.project.referencedLibraries": [
-        "d:\\New_Beginnings\\workplace\\DesignPatterns\\lib\\junit-platform-console-standalone-1.12.0.jar"
+        "d:/New_Beginnings/workplace/DesignPatterns/lib/junit-platform-console-standalone-1.12.0.jar"
     ],
     "java.test.config": {
         "testFramework": "junit5"
